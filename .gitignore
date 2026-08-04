@@ -1,0 +1,11 @@
+.DS_Store
+node_modules/
+
+# variables de entorno
+.env
+.env*
+.env*.local
+!.env.example
+
+# Vercel
+.vercel
