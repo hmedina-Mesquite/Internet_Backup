@@ -1,0 +1,25 @@
+# robots.txt - BackupNet / Internet de Respaldo
+# Acceso abierto a buscadores tradicionales y a los rastreadores de IA.
+
+User-agent: *
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://www.internetderespaldo.com/sitemap.xml
